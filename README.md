@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Ivan
 
 🚀 Passionate **self-taught developer** from Moscow, Russia.  
 I started programming in 2019 and since then I’ve been constantly improving my skills, building projects, and exploring new technologies.  
