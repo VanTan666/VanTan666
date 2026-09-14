@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="VanTan — Swift, SwiftUI, small details" width="100%" />
+  <img src="./assets/banner.svg?v=20260914-2" alt="VanTan — Swift, SwiftUI, small details" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Ivan <code>VanTan</code></h1>
