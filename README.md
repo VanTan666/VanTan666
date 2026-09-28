@@ -26,9 +26,8 @@
 | Project | What it is | Built with |
 | :-- | :-- | :-- |
 | **[vantan-portfolio](https://github.com/VanTan666/vantan-portfolio)** | My personal homepage — a compact, responsive introduction with a live SwiftUI-inspired code animation. **[Open it ↗](https://vantan.tech)** | HTML · CSS · JavaScript |
-| **[SleepAccelerator](https://github.com/VanTan666/SleepAccelerator)** | A small Paper plugin that smoothly speeds up the Minecraft night while players are sleeping. | Java · Paper API · Maven |
-| **[Social Sentiment Dashboard](https://github.com/VanTan666/analise_twitter_reddit_telegram)** | A real-time dashboard experiment for visualising social sentiment and Telegram bot statistics. | React · Node.js · Socket.IO |
-| **[Inversus Resource Pack](https://github.com/VanTan666/InversusResourcesPack)** | A custom Minecraft resource pack with bespoke fonts, symbols, and interface textures. | JSON · Minecraft assets |
+
+
 
 ## Toolkit
 
